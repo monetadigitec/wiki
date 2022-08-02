@@ -47,7 +47,7 @@
 
 ## What's STABILA?
 
-STABILA is a project dedicated to building the infrastructure for a truly decentralized Internet.
+STABILA is a project dedicated to building the infrastructure for a truly decentralized financial world.
 
 * Stabila Protocol, one of the largest blockchain-based operating systems in the world, offers scalable, high-availability and high-throughput support that underlies all the decentralized applications in the STABILA ecosystem.
 
